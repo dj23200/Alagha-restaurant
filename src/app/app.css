@@ -939,6 +939,9 @@
     height: 30%;
   }
 
+  .brand-logo{
+    min-width: 56px;
+  }
   .hero-copy p {
     max-width: 100%;
   }
