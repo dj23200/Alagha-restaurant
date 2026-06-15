@@ -1,0 +1,395 @@
+[
+  {
+    "name_en": "Schärfepaste",
+    "price": "5€",
+    "category": "المقبلات والسلطات",
+    "name_ar": "دبس فليفلة",
+    "description": "دبس فليفلة"
+  },
+  {
+    "name_en": "Auberginen Paste",
+    "price": "5€",
+    "category": "المقبلات والسلطات",
+    "name_ar": "متبل باذنجان",
+    "description": "متبل باذنجان"
+  },
+  {
+    "name_en": "Hummus",
+    "price": "5€",
+    "category": "المقبلات والسلطات",
+    "name_ar": "حمص",
+    "description": "حمص"
+  },
+  {
+    "name_en": "Knoblauchsauce",
+    "price": "5€",
+    "category": "المقبلات والسلطات",
+    "name_ar": "كريم ثوم",
+    "description": "كريم ثوم"
+  },
+  {
+    "name_en": "Pommesteller mit Ketchup und Mayonnaise",
+    "price": "5€",
+    "category": "المقبلات والسلطات",
+    "name_ar": "طبق بطاطا مقلية مع كاتشب ومايونيز",
+    "description": "طبق بطاطا مقلية مع كاتشب ومايونيز"
+  },
+  {
+    "name_en": "Gemischter Salat",
+    "price": "5€",
+    "category": "المقبلات والسلطات",
+    "name_ar": "سلطة خضار مشكلة",
+    "description": "سلطة خضار مشكلة"
+  },
+  {
+    "name_en": "Krautsalat",
+    "price": "5€",
+    "category": "المقبلات والسلطات",
+    "name_ar": "سلطة ملفوف",
+    "description": "سلطة ملفوف"
+  },
+  {
+    "name_en": "Hähnchen Shawarma Rolle",
+    "price": "7€",
+    "category": "شاورما",
+    "name_ar": "ساندويش شاورما دجاج",
+    "description": "ساندويش شاورما دجاج"
+  },
+  {
+    "name_en": "Hähnchen Shawarma Rolle (Xtra Fleisch)",
+    "price": "9€",
+    "category": "شاورما",
+    "name_ar": "ساندويش شاورما دجاج مع لحم إضافي",
+    "description": "ساندويش شاورما دجاج مع لحم إضافي"
+  },
+  {
+    "name_en": "Hähnchen Shawarma Rolle (Xtra mit Käse)",
+    "price": "8€",
+    "category": "شاورما",
+    "name_ar": "ساندويش شاورما دجاج مع جبنة إضافية",
+    "description": "ساندويش شاورما دجاج مع جبنة إضافية"
+  },
+  {
+    "name_en": "Hähnchen Shawarma (1kg)",
+    "price": "45€",
+    "category": "شاورما",
+    "name_ar": "شاورما دجاج 1 كيلو",
+    "description": "شاورما دجاج 1 كيلو"
+  },
+  {
+    "name_en": "Hähnchen Shawarma (1/2kg)",
+    "price": "25€",
+    "category": "شاورما",
+    "name_ar": "شاورما دجاج نصف كيلو",
+    "description": "شاورما دجاج نصف كيلو"
+  },
+  {
+    "name_en": "Hähnchen Shawarma Teller",
+    "price": "13€",
+    "category": "شاورما",
+    "name_ar": "طبق شاورما دجاج مع بطاطا، سلطة وصوص",
+    "description": "طبق شاورما دجاج مع بطاطا، سلطة وصوص"
+  },
+  {
+    "name_en": "Hähnchen Shawarma (Arabische Teller)",
+    "price": "12€",
+    "category": "شاورما",
+    "name_ar": "طبق شاورما دجاج عربي",
+    "description": "طبق شاورما دجاج عربي"
+  },
+  {
+    "name_en": "Hähnchen Shawarmabox (Groß)",
+    "price": "8€",
+    "category": "شاورما",
+    "name_ar": "بوكس شاورما دجاج كبير",
+    "description": "بوكس شاورما دجاج كبير"
+  },
+  {
+    "name_en": "Hähnchen Shawarmabox (Klein)",
+    "price": "6€",
+    "category": "شاورما",
+    "name_ar": "بوكس شاورما دجاج صغير",
+    "description": "بوكس شاورما دجاج صغير"
+  },
+  {
+    "name_en": "Fleisch-Shawarma Rolle",
+    "price": "8€",
+    "category": "فقط أيام السبت",
+    "name_ar": "ساندويش شاورما لحم",
+    "description": "ساندويش شاورما لحم"
+  },
+  {
+    "name_en": "Fleisch-Shawarma Rolle (Xtra Fleisch)",
+    "price": "10€",
+    "category": "فقط أيام السبت",
+    "name_ar": "ساندويش شاورما لحم مع لحم إضافي",
+    "description": "ساندويش شاورما لحم مع لحم إضافي"
+  },
+  {
+    "name_en": "Fleisch-Shawarma (1kg)",
+    "price": "50€",
+    "category": "فقط أيام السبت",
+    "name_ar": "شاورما لحم 1 كيلو",
+    "description": "شاورما لحم 1 كيلو"
+  },
+  {
+    "name_en": "Fleisch-Shawarma (1/2kg)",
+    "price": "30€",
+    "category": "فقط أيام السبت",
+    "name_ar": "شاورما لحم نصف كيلو",
+    "description": "شاورما لحم نصف كيلو"
+  },
+  {
+    "name_en": "Fleisch-Shawarma Teller (mit Pommes, Salat & Sauce)",
+    "price": "14€",
+    "category": "فقط أيام السبت",
+    "name_ar": "طبق شاورما لحم مع بطاطا، سلطة وصوص",
+    "description": "طبق شاورما لحم مع بطاطا، سلطة وصوص"
+  },
+  {
+    "name_en": "Fleisch-Shawarma (Arabische Teller) (mit Pommes, Salat & Sauce)",
+    "price": "13€",
+    "category": "فقط أيام السبت",
+    "name_ar": "طبق شاورما عربي لحم",
+    "description": "طبق شاورما عربي لحم"
+  },
+  {
+    "name_en": "Fleisch-Shawarmabox (Groß)",
+    "price": "9€",
+    "category": "فقط أيام السبت",
+    "name_ar": "بوكس شاورما لحم كبير",
+    "description": "بوكس شاورما لحم كبير"
+  },
+  {
+    "name_en": "Fleisch-Shawarmabox (Klein)",
+    "price": "7€",
+    "category": "فقط أيام السبت",
+    "name_ar": "بوكس شاورما لحم صغير",
+    "description": "بوكس شاورما لحم صغير"
+  },
+  {
+    "name_en": "Fried Chicken (Ganz) (mit Pommes, Salat & Sauce)",
+    "price": "24€",
+    "category": "دجاج",
+    "name_ar": "بروستد (دجاجة كاملة مع بطاطا، سلطة و صوص)",
+    "description": "بروستد (دجاجة كاملة مع بطاطا، سلطة و صوص)"
+  },
+  {
+    "name_en": "Fried Chicken (Halb) (mit Pommes, Salat & Sauce)",
+    "price": "12€",
+    "category": "دجاج",
+    "name_ar": "بروستد (نصف دجاجة مع بطاطا، سلطة و صوص)",
+    "description": "بروستد (نصف دجاجة مع بطاطا، سلطة و صوص)"
+  },
+  {
+    "name_en": "Crispy Chicken",
+    "price": "12€",
+    "category": "دجاج",
+    "name_ar": "دجاج كرسبي",
+    "description": "دجاج كرسبي"
+  },
+  {
+    "name_en": "Crispy Chicken Rolle",
+    "price": "7€",
+    "category": "دجاج",
+    "name_ar": "ساندويش كرسبي",
+    "description": "ساندويش كرسبي"
+  },
+  {
+    "name_en": "Gegrilltes Huhn (ganz) (mit Reis/Pommes, Salat & Sauce)",
+    "price": "20€",
+    "category": "دجاج",
+    "name_ar": "دجاجة كاملة مشوية مع رز أو بطاطا، سلطة وصوص",
+    "description": "دجاجة كاملة مشوية مع رز أو بطاطا، سلطة وصوص"
+  },
+  {
+    "name_en": "Gegrilltes Huhn (halb) (mit Reis/Pommes, Salat & Sauce)",
+    "price": "11€",
+    "category": "دجاج",
+    "name_ar": "نصف دجاجة مشوية مع رز أو بطاطا، سلطة وصوص",
+    "description": "نصف دجاجة مشوية مع رز أو بطاطا، سلطة وصوص"
+  },
+  {
+    "name_en": "Syrische Teller",
+    "price": "15€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "الطبق السوري",
+    "description": "الطبق السوري"
+  },
+  {
+    "name_en": "Mexikanische Teller(mit Pommes / Reis, Salat & Sauce)",
+    "price": "12€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "الطبق المكسيكي(معبطاطا مقلية و أرز و صوص)",
+    "description": "الطبق المكسيكي(معبطاطا مقلية و أرز و صوص)"
+  },
+  {
+    "name_en": "Mexikanische Rolle",
+    "price": "7€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "ساندويش مكسيكي",
+    "description": "ساندويش مكسيكي"
+  },
+  {
+    "name_en": "Mexikanische Rolle (Xtra mit käse)",
+    "price": "8€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "ساندويش مكسيكي(مع اضافة جبنة)",
+    "description": "ساندويش مكسيكي(مع اضافة جبنة)"
+  },
+  {
+    "name_en": "Hähnchen Leber Teller(mit Pommes / Reis, Salat & Sauce)",
+    "price": "12€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "طبق كبدة دجاج",
+    "description": "طبق كبدة دجاج"
+  },
+  {
+    "name_en": "Hähnchen Leber Rolle",
+    "price": "7€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "ساندويش كبدة دجاج",
+    "description": "ساندويش كبدة دجاج"
+  },
+  {
+    "name_en": "Falafel Teller (mit Salat & Sauce)",
+    "price": "10€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "طبق فلافل(مع سلطة و صوص)",
+    "description": "طبق فلافل(مع سلطة و صوص)"
+  },
+  {
+    "name_en": "Falafel Rolle",
+    "price": "6€",
+    "category": "أطباق مختلطة ومميزة",
+    "name_ar": "ساندويش فلافل",
+    "description": "ساندويش فلافل"
+  },
+  {
+    "name_en": "gegrillte Kebab (2 Spieß mit Reis/Pommes, Salat & Sauce)",
+    "price": "18€",
+    "category": "مشاوي",
+    "name_ar": "كباب مشوي (سيخين مع رز و بطاطا و صوص)",
+    "description": "كباب مشوي (سيخين مع رز و بطاطا و صوص)"
+  },
+  {
+    "name_en": "gegrillte Kebab rolle",
+    "price": "10€",
+    "category": "مشاوي",
+    "name_ar": "ساندويش كباب مشوي",
+    "description": "ساندويش كباب مشوي"
+  },
+  {
+    "name_en": "gegrillte Kebab (1kg)",
+    "price": "55€",
+    "category": "مشاوي",
+    "name_ar": "كباب مشوي 1 كيلو",
+    "description": "كباب مشوي 1 كيلو"
+  },
+  {
+    "name_en": "gegrillte Kebab (1/2kg)",
+    "price": "30€",
+    "category": "مشاوي",
+    "name_ar": "كباب مشوي نصف كيلو",
+    "description": "كباب مشوي نصف كيلو"
+  },
+  {
+    "name_en": "Gemischte Grillteller (3 Spieß mit Reis/Pommes, Salat & Sauce)",
+    "price": "22€",
+    "category": "مشاوي",
+    "name_ar": "مشاوي مشكلة (3 أسياخ مع رز أو بطاطا، سلطة وصوص)",
+    "description": "مشاوي مشكلة (3 أسياخ مع رز أو بطاطا، سلطة وصوص)"
+  },
+  {
+    "name_en": "Gemischte Grill (1kg)",
+    "price": "60€",
+    "category": "مشاوي",
+    "name_ar": "مشاوي مشكلة 1 كيلو",
+    "description": "مشاوي مشكلة 1 كيلو"
+  },
+  {
+    "name_en": "Gemischte Grill (1/2kg)",
+    "price": "35€",
+    "category": "مشاوي",
+    "name_ar": "مشاوي مشكلة نصف كيلو",
+    "description": "مشاوي مشكلة نصف كيلو"
+  },
+  {
+    "name_en": "Auberginen Kebab (2 spieß mit Reis/Pommes, Salat & Sauce)",
+    "price": "18€",
+    "category": "مشاوي",
+    "name_ar": "كباب باذنجان (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)",
+    "description": "كباب باذنجان (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)",
+    "image": "https://i.imgur.com/DaPz4uf.png"
+  },
+  {
+    "name_en": "Auberginen Kebab (1kg)",
+    "price": "55€",
+    "category": "مشاوي",
+    "name_ar": "كباب باذنجان (1 كيلو)",
+    "description": "كباب باذنجان (1 كيلو)"
+  },
+  {
+    "name_en": "Auberginen Kebab (1/2kg)",
+    "price": "30€",
+    "category": "مشاوي",
+    "name_ar": "كباب باذنجان(نصف كيلو)",
+    "description": "كباب باذنجان(نصف كيلو)"
+  },
+  {
+    "name_en": "Gegrillte Hähnchenspieß (2 spieß mit Reis/Pommes, Salat & Sauce)",
+    "price": "15€",
+    "category": "مشاوي",
+    "name_ar": "أسياخ شيش طاووق (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)",
+    "description": "أسياخ شيش طاووق (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)"
+  },
+  {
+    "name_en": "Gegrillte Hähnchenspieß Rolle",
+    "price": "9€",
+    "category": "مشاوي",
+    "name_ar": "ساندويش شيش طاووق",
+    "description": "ساندويش شيش طاووق"
+  },
+  {
+    "name_en": "Gegrillte Hähnchenspieß (1kg)",
+    "price": "45€",
+    "category": "مشاوي",
+    "name_ar": "شيش طاووق (1 كيلو)",
+    "description": "شيش طاووق (1 كيلو)"
+  },
+  {
+    "name_en": "Gegrillte Hähnchenspieß (1/2kg)",
+    "price": "25€",
+    "category": "مشاوي",
+    "name_ar": "شيش طاووق (نصف كيلو)",
+    "description": "شيش طاووق (نصف كيلو)"
+  },
+  {
+    "name_en": "Gegrillte Schafffleisch (2 spieß mit Reis/Pommes, Salat & Sauce)",
+    "price": "18€",
+    "category": "مشاوي",
+    "name_ar": "لحم غنم مشوي (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)",
+    "description": "لحم غنم مشوي (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)"
+  },
+  {
+    "name_en": "Gegrillte Schafffleisch Rolle",
+    "price": "10€",
+    "category": "مشاوي",
+    "name_ar": "ساندويش لحم غنم مشوي",
+    "description": "ساندويش لحم غنم مشوي"
+  },
+  {
+    "name_en": "Gegrillte Schafffleisch (1kg)",
+    "price": "75€",
+    "category": "مشاوي",
+    "name_ar": "لحم غنم مشوي (1 كيلو)",
+    "description": "لحم غنم مشوي (1 كيلو)"
+  },
+  {
+    "name_en": "Gegrillte Schafffleisch (1/2kg)",
+    "price": "40€",
+    "category": "مشاوي",
+    "name_ar": "لحم غنم مشوي (نصف كيلو)",
+    "description": "لحم غنم مشوي (نصف كيلو)"
+  }
+]
