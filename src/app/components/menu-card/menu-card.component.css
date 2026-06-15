@@ -1,0 +1,85 @@
+:host {
+  display: block;
+}
+
+.menu-card {
+  background: rgba(255, 255, 255, 0.90);
+  border: 1px solid rgba(179, 72, 56, 0.08);
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  transition: all 0.35s cubic-bezier(0.25, 1, 0.5, 1);
+  box-shadow: 0 10px 30px rgba(36, 20, 11, 0.05);
+  cursor: pointer;
+}
+
+.menu-card-image {
+  width: 140px;
+  height: 110px;
+  min-width: 140px;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fcfcfc;
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.02);
+}
+
+.menu-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  transition: transform 0.5s ease;
+}
+
+.menu-card:hover .menu-card-image img {
+  transform: scale(1.06);
+}
+
+.menu-card-body {
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 8px;
+  flex: 1;
+}
+
+.menu-card-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.menu-card-title h3 {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #24140b;
+}
+
+.menu-card-title span {
+  color: #c58b3a;
+  font-weight: 700;
+  background: rgba(197,139,58,0.08);
+  padding: 4px 10px;
+  border-radius: 50px;
+  font-size: 12px;
+}
+
+.menu-card-subtitle {
+  margin: 0;
+  color: #5b4a42;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.menu-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 15px 35px rgba(61, 37, 22, 0.15);
+  border-color: #c58b3a;
+}
