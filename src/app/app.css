@@ -939,8 +939,16 @@
     height: 30%;
   }
 
+  .brand-logo{
+    min-width: 56px;
+  }
   .hero-copy p {
     max-width: 100%;
+  }
+
+  .brand-logo img {
+    width: 56px;
+    height: 56px;
   }
 
   .site-footer {
