@@ -349,12 +349,20 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
     return Array.from(new Set(items.map((item) => this.itemCategory(item)))).filter(Boolean);
   }
 
+  private updateDocumentDirection(language: Language) {
+    if (typeof document === 'undefined') {
+      return;
+    }
+
+    const dir = language === 'ar' ? 'rtl' : 'ltr';
+    document.documentElement.setAttribute('dir', dir);
+    document.documentElement.setAttribute('lang', language);
+  }
+
   selectLanguage(language: Language) {
     this.language = language;
     this.selectedCategory = '';
-    if (typeof document !== 'undefined') {
-      document.documentElement.dir = language === 'ar' ? 'rtl' : 'ltr';
-    }
+    this.updateDocumentDirection(language);
   }
 
   getAllLabel(): string {
