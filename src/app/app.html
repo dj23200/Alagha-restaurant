@@ -17,10 +17,12 @@
 </div>
 
 <div class="bg-random-layer" aria-hidden="true">
-  @for (item of backgroundItems; track item) {
-  <img class="bg-random-item" [src]="item.src" alt="" [style.left.%]="item.left" [style.top.%]="item.top"
-    [style.transform]="item.transform" />
-  }
+  <div class="bg-transform-engine">
+    @for (item of backgroundItems; track item) {
+    <img class="bg-random-item" [src]="item.src" alt="" [style.left.%]="item.left" [style.top.%]="item.top"
+      [style.transform]="item.transform" />
+    }
+  </div>
 </div>
 
 <div class="page-shell">

@@ -436,7 +436,8 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
     }
 
     const visualTop = (window.visualViewport && window.visualViewport.pageTop) || 0;
-    const scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || visualTop || 0;
+    const rawScrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || visualTop || 0;
+    const scrollTop = Math.max(0, rawScrollTop);
     this.showScrollButton = scrollTop > 520;
     const bgTranslate = -scrollTop * 0.15;
     document.documentElement.style.setProperty('--scroll-y', `${bgTranslate}px`);
