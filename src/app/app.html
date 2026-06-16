@@ -135,7 +135,12 @@
       }
     </section>
 
-    <section class="slogan-carousel">
+    
+  </main>
+  
+
+</div>
+<section class="slogan-carousel">
       <div class="slogan-carousel-inner">
         @for (slogan of slogans; track slogan) {
         <article class="slogan-card"
@@ -192,11 +197,6 @@
         <p>جميع الحقوق محفوظة لدى الآغا &copy;</p>
       </footer>
     </section>
-  </main>
-
-
-</div>
-
 <button *ngIf="showScrollButton" class="scroll-top-button" type="button" (click)="scrollToTop()" title="Scroll to top">
   <span class="scroll-top-icon">↑</span>
   <span class="scroll-top-label">{{ translate('scrollTopLabel') }}</span>
