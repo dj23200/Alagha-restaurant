@@ -444,6 +444,33 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
   }
 
   scrollToTop() {
+    if (typeof document === 'undefined') {
+      return;
+    }
+
+    const scrollToTopIfPossible = (target: any) => {
+      try {
+        if (target && typeof target.scrollTo === 'function') {
+          target.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      } catch {
+        // ignore failures for non-window/document targets
+      }
+      if (target && 'scrollTop' in target) {
+        target.scrollTop = 0;
+      }
+    };
+
+    scrollToTopIfPossible(document.documentElement);
+    scrollToTopIfPossible(document.body);
+
+    const nestedScrollContainers = Array.from(document.querySelectorAll<HTMLElement>('body *'))
+      .filter((el) => el.scrollHeight > el.clientHeight);
+
+    nestedScrollContainers.forEach((container) => {
+      scrollToTopIfPossible(container);
+    });
+
     if (typeof window !== 'undefined') {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
