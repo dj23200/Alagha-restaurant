@@ -368,28 +368,28 @@
     "name_en": "Gegrillte Schafffleisch (2 spieß mit Reis/Pommes, Salat & Sauce)",
     "price": "18€",
     "category": "مشاوي",
-    "name_ar": "لحم غنم مشوي (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)",
-    "description": "لحم غنم مشوي (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)"
+    "name_ar": "لحم غنم شقف مشوي (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)",
+    "description": "لحم غنم شقف مشوي (2 سيخ مع رز أو بطاطا مقلية، سلطة وصوص)"
   },
   {
     "name_en": "Gegrillte Schafffleisch Rolle",
     "price": "10€",
     "category": "مشاوي",
-    "name_ar": "ساندويش لحم غنم مشوي",
-    "description": "ساندويش لحم غنم مشوي"
+    "name_ar": "ساندويش لحم غنم شقف مشوي",
+    "description": "ساندويش لحم غنم شقف مشوي"
   },
   {
     "name_en": "Gegrillte Schafffleisch (1kg)",
     "price": "75€",
     "category": "مشاوي",
-    "name_ar": "لحم غنم مشوي (1 كيلو)",
-    "description": "لحم غنم مشوي (1 كيلو)"
+    "name_ar": "لحم غنم شقف مشوي (1 كيلو)",
+    "description": "لحم غنم شقف مشوي (1 كيلو)"
   },
   {
     "name_en": "Gegrillte Schafffleisch (1/2kg)",
     "price": "40€",
     "category": "مشاوي",
-    "name_ar": "لحم غنم مشوي (نصف كيلو)",
-    "description": "لحم غنم مشوي (نصف كيلو)"
+    "name_ar": "لحم غنم شقف مشوي (نصف كيلو)",
+    "description": "لحم غنم شقف مشوي (نصف كيلو)"
   }
 ]
