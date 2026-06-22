@@ -14,7 +14,7 @@ type ItemField = 'name' | 'description' | 'category';
 })
 export class MenuCardComponent {
   @Input() item!: MenuItem;
-  @Input() language: Language = 'ar';
+  @Input() language: Language = 'de';
   @Output() itemClick = new EventEmitter<MenuItem>();
 
   itemField(field: ItemField): string {

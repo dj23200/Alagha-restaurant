@@ -24,7 +24,7 @@ type ItemField = 'name' | 'description' | 'category';
   styleUrls: ['./app.css']
 })
 export class App implements OnInit, AfterViewInit, OnDestroy {
-  language: Language = 'ar';
+  language: Language = 'de';
   selectedCategory = '';
   currentSloganIndex = 0;
   sloganIntervalId?: number;
@@ -376,6 +376,7 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
 
   ngOnInit() {
     this.initBackgroundItems();
+    this.updateDocumentDirection(this.language);
     this.startSloganCarousel();
   }
 
