@@ -154,7 +154,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description_ar: "طبق شاورما دجاج 1 كيلو مع صوص",
     description_en: "1kg plate of chicken shawarma with sauce.",
     description_de: "1kg Hähnchen Shawarma mit Sauce.",
-    image: "https://i.ibb.co/JWqqQMHr/1.png",
+    image: "https://i.ibb.co/9k9PKQxR/image.png",
   },
   {
     name_ar: "شاورما دجاج نصف كيلو",
@@ -167,7 +167,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description_ar: "شاورما دجاج نصف كيلو",
     description_en: "Half kilo of chicken shawarma.",
     description_de: "Halbes Kilo Hähnchen Shawarma.",
-    image: "https://i.ibb.co/qMpLktrz/image.png",
+    image: "https://i.ibb.co/bMMBrCYc/image.png",
   },
   {
     name_ar: "طبق شاورما دجاج مع بطاطا، سلطة وصوص",
@@ -258,7 +258,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description_ar: "فقط يوم السبت... شاورما لحم 1 كيلو ",
     description_en: "1kg beef shawarma plate.",
     description_de: "1kg Fleisch Shawarma Platte.",
-    image: "https://i.ibb.co/5hywQK3P/1.png",
+    image: "https://i.ibb.co/C5wYz7jP/image.png",
   },
   {
     name_ar: "شاورما لحم نصف كيلو",
@@ -271,7 +271,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description_ar: "فقط يوم السبت... شاورما لحم نصف كيلو ",
     description_en: "Half kilo beef shawarma.",
     description_de: "Halbes Kilo Fleisch Shawarma.",
-    image: "https://i.ibb.co/Swpz3DCy/image.png",
+    image: "https://i.ibb.co/QvfD8JWD/image.png",
   },
   {
     name_ar: "طبق شاورما لحم مع بطاطا، سلطة وصوص",
